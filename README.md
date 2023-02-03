@@ -3,7 +3,7 @@
 ---
 
 # Languages and Tools
-<section align='center'>
+<section>
   <img  width=50 src='./assets/reactjs.png' alt='imagen react' />
   <img  width=50 src='./assets/typescript.png' alt='imagen react' />
   <img  width=50 src='./assets/jest.png' alt='imagen react' />
